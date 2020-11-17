@@ -4,7 +4,7 @@ I'm a Software Specialist on the Access Control team @ [Microntel](https://www.m
 
 ### 📢 Contacts
 
-<a href="https://www.linkedin.com/in/edoardosanna" target="_blank"><img src="https://img.shields.io/badge/edoardoSanna-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/edoardosanna" target="_blank"><img src="https://img.shields.io/badge/edoardosanna-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
 
