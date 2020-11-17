@@ -2,8 +2,7 @@
 
 I'm a Software Specialist on the Access Control team @ [Microntel](https://www.microntel.com).
 
-- I like to automate my daily tasks with [PowerShell](https://github.com/PowerShell/PowerShell) scripts
-- I'm trying to apply [DevOps](https://cloud.google.com/devops/?hl=en) principles to my work: treat Operations as if it's a Development problem
+- I like to automate my daily tasks with [PowerShell](https://github.com/PowerShell/PowerShell) scripts, trying to apply [DevOps](https://cloud.google.com/devops/?hl=en) principles to my work: treat Operations as if it's a Development problem
 - Continuously learning new stuff in the Microsoft technology stack. Getting started with [Azure](https://azure.microsoft.com/it-it/)
 - My favorite editor: [VSCode](https://github.com/microsoft/vscode)
 ---
