@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Edoardo! 
+### 👋 Hello, I'm Edoardo! 🌴
 
 I'm a Software Specialist on the Access Control team @ [Microntel](https://www.microntel.com).
 
