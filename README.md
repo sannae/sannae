@@ -2,7 +2,7 @@
 
 I'm a Software Support Engineer on the Access Control team @ [Microntel](https://www.microntel.com).
 
-- I like to automate my daily tasks with [PowerShell](https://github.com/PowerShell/PowerShell) scripts, trying to apply [DevOps](https://cloud.google.com/devops/?hl=en) principles to my work: treat Operations as if it's a Development problem
+- I like to automate my daily tasks with [PowerShell](https://github.com/PowerShell/PowerShell) scripts, trying to apply [DevOps](https://cloud.google.com/devops/?hl=en) principles (such as [version control](https://cloud.google.com/solutions/devops/devops-tech-version-control), [deployment automation](https://cloud.google.com/solutions/devops/devops-tech-deployment-automation) and [Infrastructure as Code](https://www.atlassian.com/continuous-delivery/principles/infrastructure-as-code) )to my work: treat Operations as if it's a Development problem
 - Continuously learning new stuff in the Microsoft technology stack. Getting started with [Azure](https://azure.microsoft.com/it-it/)
 - My favorite editor: [VSCode](https://github.com/microsoft/vscode)
 ---
