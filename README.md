@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Edoardo! 🌴
+### 👋 Buondì buondì! 🌴
 
 I'm a Software Support Engineer on the Access Control team @ [Microntel](https://www.microntel.com/en).
 
