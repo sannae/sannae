@@ -28,7 +28,7 @@ I'm a Software Support Engineer on the [Access Control team @ Microntel](https:/
 - 📫 How to reach me **edoardo.sanna.es@gmail.com**
 ---
 -->
----
+
 ### :hammer: My current working environment:
 <p align="left"> 
 <img alt="windows" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
