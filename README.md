@@ -13,9 +13,11 @@ I'm a Software Support Engineer on the [Access Control team @ Microntel](https:/
 ---
 
 ### 📢 Contacts
-
-<a href="https://www.linkedin.com/in/edoardosanna" target="_blank"><img src="https://img.shields.io/badge/edoardosanna-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-
+<p align="left">
+<a href="https://linkedin.com/in/edoardosanna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="edoardosanna" height="30" width="40" /></a>
+<a href="https://dev.to/sannae" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sannae" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sannae" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="sannae" height="30" width="40" /></a>
+</p>
 
 <!--
 <!-- Made with https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
@@ -26,12 +28,7 @@ I'm a Software Support Engineer on the [Access Control team @ Microntel](https:/
 - 🌱 Next in line: **Powershell modules, DSC, Microsoft Azure, Docker**
 - 📫 How to reach me **edoardo.sanna.es@gmail.com**
 ---
-<h3 align="left"> 📢 Contacts:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/edoardosanna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="edoardosanna" height="30" width="40" /></a>
-<a href="https://dev.to/sannae" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sannae" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sannae" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="sannae" height="30" width="40" /></a>
-</p>
+
 ---
 <h3 align="left">Languages and Tools:</h3>
 <img alt="windows" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
