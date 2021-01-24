@@ -2,9 +2,9 @@
 
 I'm a Software Support Engineer on the [Access Control team @ Microntel](https://www.microntel.com/en/solutions/access-control/).
 
-- I like to automate my daily tasks with [PowerShell](https://github.com/PowerShell/PowerShell) scripts, trying to apply [DevOps](https://cloud.google.com/devops/?hl=en) principles (such as [version control](https://cloud.google.com/solutions/devops/devops-tech-version-control), [deployment automation](https://cloud.google.com/solutions/devops/devops-tech-deployment-automation) and [Infrastructure as Code](https://www.atlassian.com/continuous-delivery/principles/infrastructure-as-code)) to my work: treat Operations as if it's a Development problem
+- I like to automate my daily tasks with [PowerShell](https://github.com/PowerShell/PowerShell) scripts
+- I'm trying to add some [DevOps](https://cloud.google.com/devops/?hl=en) principles (such as [version control](https://cloud.google.com/solutions/devops/devops-tech-version-control), [deployment automation](https://cloud.google.com/solutions/devops/devops-tech-deployment-automation) and [Infrastructure as Code](https://www.atlassian.com/continuous-delivery/principles/infrastructure-as-code)) to my work: _treat Operations as if it's a Development problem_
 - Continuously learning new stuff in the Microsoft technology stack. Getting started with [Azure](https://azure.microsoft.com/it-it/)
-- My favorite editor: [VSCode](https://github.com/microsoft/vscode)
 ---
 
 ### :bar_chart: My GitHub stats
@@ -27,9 +27,9 @@ I'm a Software Support Engineer on the [Access Control team @ Microntel](https:/
 - 🌱 Next in line: **Powershell modules, DSC, Microsoft Azure, Docker**
 - 📫 How to reach me **edoardo.sanna.es@gmail.com**
 ---
-<!--
+-->
 ---
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My favorites Languages and Tools:</h3>
 <img alt="windows" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
 <p align="left"> <a href="https://code.visualstudio.com" target="_blank"> <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" /> </a> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
@@ -40,5 +40,4 @@ I'm a Software Support Engineer on the [Access Control team @ Microntel](https:/
   <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> 
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sannae&show_icons=true&locale=en" alt="sannae" /></p>
--->
+
