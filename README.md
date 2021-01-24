@@ -29,15 +29,13 @@ I'm a Software Support Engineer on the [Access Control team @ Microntel](https:/
 ---
 -->
 ---
-<h3 align="left">My favorites Languages and Tools:</h3>
-<img alt="windows" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
-<p align="left"> <a href="https://code.visualstudio.com" target="_blank"> <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" /> </a> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+### :hammer: My current working environment:
+<p align="left"> 
+<img alt="windows" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
+<a href="https://code.visualstudio.com" target="_blank"> <img alt="visual studio code" width="40" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" /> </a> 
   <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> 
 </p>
 
