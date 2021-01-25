@@ -30,7 +30,8 @@ I'm a Software Support Engineer on the [Access Control team @ Microntel](https:/
 -->
 
 ### :hammer: My current working environment:
-<p align="left"> 
+<p align="left">
+![logo][] Powershell 
 <img alt="windows" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
 <a href="https://code.visualstudio.com" target="_blank"> <img alt="visual studio code" width="40" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" /> </a> 
   <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
