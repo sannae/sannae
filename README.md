@@ -13,11 +13,10 @@ I'm a Software Support Engineer on the [Access Control team @ Microntel](https:/
 ---
 
 ### 📢 Contacts
-<p align="left">
-<a href="https://linkedin.com/in/edoardosanna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="edoardosanna" height="30" width="40" /></a>
-<a href="https://dev.to/sannae" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sannae" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sannae" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="sannae" height="30" width="40" /></a>
-</p>
+[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/edoardosanna/)
+[<img align="center" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"/>](https://dev.to/sannae)
+[<img align="center" height="40" src="https://img.icons8.com/cotton/100/000000/hot-coffee--v1.png"/>](https://www.buymeacoffee.com/edoardosanna)
+
 <!--
 <!-- Made with https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <!--
