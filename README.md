@@ -4,7 +4,7 @@ I'm a Software Support Engineer on the [Access Control team @ Microntel](https:/
 
 What I'm playing with right now:
 - :gear: I 'm building a set of [PowerShell](https://github.com/PowerShell/PowerShell) modules for my team
-- 💫 I'm trying to add some [DevOps](https://cloud.google.com/devops/?hl=en) principles (such as [version control](https://cloud.google.com/solutions/devops/devops-tech-version-control), [deployment automation](https://cloud.google.com/solutions/devops/devops-tech-deployment-automation) and [Infrastructure as Code](https://www.atlassian.com/continuous-delivery/principles/infrastructure-as-code)) to my work: _treat Operations as if it's a Development problem_ ([J.Duffney](https://duffney.io/))
+- 💫 I'm trying to add some [DevOps](https://cloud.google.com/devops/?hl=en) principles (such as [version control](https://cloud.google.com/solutions/devops/devops-tech-version-control), [deployment automation](https://cloud.google.com/solutions/devops/devops-tech-deployment-automation) and [Infrastructure as Code](https://www.atlassian.com/continuous-delivery/principles/infrastructure-as-code)) to my work: _"treat Operations as if it's a Development problem"_ ([J.Duffney](https://duffney.io/))
 - 📚 Continuously learning new stuff in the [Microsoft technology stack](https://docs.microsoft.com/it-it/learn/). Getting started with [Azure](https://azure.microsoft.com/it-it/)
 ---
 
@@ -18,17 +18,6 @@ What I'm playing with right now:
 [<img align="center" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"/>](https://dev.to/sannae)
 [<img align="center" height="40" src="https://img.icons8.com/cotton/100/000000/hot-coffee--v1.png"/>](https://www.buymeacoffee.com/edoardosanna)
 
-<!--
-<!-- Made with https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<!--
-<h3 align="center">Software support engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sannae&label=Profile%20views&color=0e75b6&style=flat" alt="sannae" /> </p>
-- 🔭 I’m currently working on **automating my daily tasks with [Powershell](https://github.com/PowerShell/PowerShell) scripts**
-- 🌱 Next in line: **Powershell modules, DSC, Microsoft Azure, Docker**
-- 📫 How to reach me **edoardo.sanna.es@gmail.com**
----
--->
-
 ### :hammer: My current working environment:
 <p align="left">
 <img alt="windows" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
@@ -39,3 +28,4 @@ What I'm playing with right now:
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> 
 </p>
 
+<!-- A similar page can be built with https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
