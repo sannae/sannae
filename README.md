@@ -5,7 +5,7 @@ I'm a Software Support Engineer on the [Access Control team @ Microntel](https:/
 What I'm playing with right now:
 - :gear: I 'm building a set of [PowerShell](https://github.com/PowerShell/PowerShell) modules for my team
 - 💫 I'm trying to add some [DevOps](https://cloud.google.com/devops/?hl=en) principles (such as [version control](https://cloud.google.com/solutions/devops/devops-tech-version-control), [deployment automation](https://cloud.google.com/solutions/devops/devops-tech-deployment-automation) and [Infrastructure as Code](https://www.atlassian.com/continuous-delivery/principles/infrastructure-as-code)) to my work: _"treat Operations as if it's a Development problem"_ ([J.Duffney](https://duffney.io/))
-- 📚 Continuously learning new stuff in the [Microsoft technology stack](https://docs.microsoft.com/it-it/learn/). Getting started with [Azure](https://azure.microsoft.com/it-it/)
+- 📚 Continuously learning new stuff in the [Microsoft technology stack](https://docs.microsoft.com/it-it/learn/). Getting started with [Azure release pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/)
 ---
 
 ### :bar_chart: My GitHub stats
