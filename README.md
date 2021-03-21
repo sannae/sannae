@@ -18,7 +18,7 @@ What I'm playing with right now:
 [<img align="center" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"/>](https://dev.to/sannae)
 [<img align="center" height="40" src="https://raw.githubusercontent.com/sannae/sannae/769a91d60eeb9d0d9a58b671c5f0f3823b2d6442/BMC%20Logo%20-%20White.svg"/>](https://www.buymeacoffee.com/edoardosanna)
 
-
+<!--
 ### :hammer: My current working environment:
 <p align="left">
 <img alt="windows" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
@@ -28,5 +28,6 @@ What I'm playing with right now:
   <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> 
 </p>
+-->
 
 <!-- A similar page can be built with https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
