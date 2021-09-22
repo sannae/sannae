@@ -1,0 +1,1 @@
+`22-09-2021`: started the FreeCodeCamp curriculum from scratch, again. Found [this nice article](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/how-to-become-a-better-developer/amp/) with plenty of beginner's resources!
