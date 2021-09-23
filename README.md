@@ -10,7 +10,7 @@ I'm a Software Support Engineer in the [Access Control team @ Microntel](https:/
 ### 📢 Contacts
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/edoardosanna/)
 [<img align="center" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"/>](https://dev.to/sannae)
-[<img align="center" height="40" src="https://raw.githubusercontent.com/sannae/sannae/769a91d60eeb9d0d9a58b671c5f0f3823b2d6442/BMC%20Logo%20-%20White.svg"/>](https://www.buymeacoffee.com/edoardosanna)
+[<img align="center" height="40" src="../sannae/img/bmc_logo_white.svg"/>](https://www.buymeacoffee.com/edoardosanna)
 
 <!--
 ### :hammer: My current working environment:
