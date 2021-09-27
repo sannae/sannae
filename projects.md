@@ -1,5 +1,8 @@
 # Progetti
 
+## Career path
+* Become a [DevOps Engineer](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
+
 ## Microntel-related
 * Applicazione web per gestione del magazzino 
   - Inserimento nuovo lavorato
