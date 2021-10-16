@@ -4,7 +4,7 @@ I'm a Software Support Engineer in the [Access Control team @ Microntel](https:/
 
 ### :bar_chart: My GitHub stats
 
-<img align="center" alt="sannae's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sannae&show_icons=true&count_private=true&theme=dark&include_all_commits=true&line_height=21&cache_seconds=1800"/><img align="center" alt="sannae's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannae&layout=default&theme=dark"/>
+<img align="center" alt="sannae's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sannae&show_icons=true&count_private=true&theme=dark&include_all_commits=true&line_height=21&cache_seconds=1800"/><img align="center" alt="sannae's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannae&layout=compact&theme=dark"/>
 ---
 
 ### 📢 Contacts
