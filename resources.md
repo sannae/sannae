@@ -1,2 +1,0 @@
-`22-09-2021`: started the FreeCodeCamp curriculum from scratch, again. Found [this nice article](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/how-to-become-a-better-developer/amp/) with plenty of beginner's resources!
-`23-09-2021`: the article before is full of resources to explore! Especially the [related repo](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner). FreeCodeCamp's HTML basics are too simple.
