@@ -2,7 +2,7 @@
 
 I'm a Software Support Engineer in the [Access Control team @ Microntel](https://www.microntel.com/en/solutions/access-control/).
 
-What am I working on right now? Check out [my notebook](https://sannae.github.io/the-notebook)!
+What am I working on right now? :memo: Check out [my notebook](https://sannae.github.io/the-notebook)!
 
 ### :bar_chart: My GitHub stats
 
