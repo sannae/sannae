@@ -1,6 +1,7 @@
 ### 👋 Buondì buondì!
 
 I'm a Software Support Engineer in the [Access Control team @ Microntel](https://www.microntel.com/en/solutions/access-control/).
+
 :memo: Here's [my notebook](https://sannae.github.io/the-notebook)!
 
 ### :bar_chart: My stats
