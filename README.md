@@ -10,6 +10,8 @@ I'm a Software Support Engineer in the [Access Control team @ Microntel](https:/
 
 <img align="center" alt="sannae's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannae&langs_count=8"/>
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?sannae" frameborder="0"></iframe>
+
 ### 📢 Contacts
 
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/edoardosanna/)
