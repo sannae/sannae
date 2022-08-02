@@ -10,7 +10,7 @@ I'm a Software Support Engineer in the [Access Control team @ Microntel](https:/
 
 <img align="center" alt="sannae's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannae&langs_count=8"/>
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?sannae" frameborder="0"></iframe>
+<img align="center" alt="sannae's Github Stats" src="https://ionicabizau.github.io/github-profile-languages/api.html?sannae"/>
 
 ### 📢 Contacts
 
