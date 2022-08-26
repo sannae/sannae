@@ -2,7 +2,9 @@
 
 I'm a [Software Support Engineer](https://bestaccreditedcolleges.org/articles/software-support-engineer-roles-responsibilities-duties.html) transitioning to Software Engineering.
 
-I'm part of the [Access Control team @ Microntel](https://www.microntel.com/en/solutions/access-control/). :memo: Take a look at [my dev notebook](https://sannae.github.io/the-notebook)!
+I'm part of the [Access Control team @ Microntel](https://www.microntel.com/en/solutions/access-control/). 
+
+:memo: Take a look at [my dev notebook](https://sannae.github.io/the-notebook)!
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sannae&label=Profile%20views&color=0e75b6&style=flat" alt="sannae" /> </p>
