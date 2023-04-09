@@ -1,12 +1,14 @@
-## 👋 Buondì buondì!
+## 👋 Buondì!
 
 I'm a Software Engineer in the [Access Control team @ Microntel](https://www.microntel.com/en/solutions/access-control/). 
 
-<!--
+I started being a help desk technician, moving then to software support and deployment, then to project management. Fallen in love with [Powershell](https://github.com/PowerShell/PowerShell) automation, lately I decided to transition to software engineering. I like passing tests, well-written documentation, and clear code. I also love practicing with [Exercism](https://exercism.org), seeing my PRs getting approved in GitHub and interacting with the community. 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sannae&label=Profile%20views&color=0e75b6&style=flat" alt="sannae" /> </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sannae.sannae&left_color=grey&right_color=blue)
--->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sannae.sannae&left_color=grey&right_color=blue) 
+
+
 
 ### :bar_chart: My stats
 
